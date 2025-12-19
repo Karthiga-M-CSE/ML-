@@ -10,3 +10,29 @@ Datatypes
    >>set (a= {1,2,3,4}), 
    >>dict (a = {'a':1,'b':2})
    >>stack, queue, linked list, graph, hashmap
+
+> Stack
+stack = []
+stack.append(10)
+stack.append(20)
+stack.pop()
+
+> Queue
+queue.append(10)
+queue.append(20)
+queue.popleft()
+
+> Graph
+graph = {
+    "A": ["B", "C"],
+    "B": ["A", "D"],
+    "C": ["A"],
+    "D": ["B"]
+}
+
+> Hashmap
+hashmap = {
+    1: "One",
+    2: "Two",
+    3: "Three"
+}
