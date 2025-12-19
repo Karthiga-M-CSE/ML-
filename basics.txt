@@ -1,0 +1,12 @@
+Datatypes
+1.	Primitive [
+   >>int (a=2), 
+   >>float (b = 3.14), 
+   >>String (name = "Karthiga"), 
+   >>boolean (a=  True)]
+2.	Non primitive [
+   >>list (a= [1,2,3,4]),
+   >>tuple (b= (1,2,3,4)), 
+   >>set (a= {1,2,3,4}), 
+   >>dict (a = {'a':1,'b':2})
+   >>stack, queue, linked list, graph, hashmap
